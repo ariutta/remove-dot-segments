@@ -1,0 +1,19 @@
+{
+  "name": "remove-dot-segments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ariutta/remove-dot-segments.git"
+  },
+  "author": "",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/ariutta/remove-dot-segments/issues"
+  },
+  "homepage": "https://github.com/ariutta/remove-dot-segments#readme"
+}
